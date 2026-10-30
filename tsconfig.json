@@ -1,0 +1,1 @@
+{ "compilerOptions": { "noImplicitAny": false, "strictNullChecks": false,"jsx": "react-jsx" } }
